@@ -1,2 +1,6 @@
 Hello! My name is Kimgyuri
 kumoh national institute of technology
+
+Computer Sciences
+C programming
+Object-oriented programming
